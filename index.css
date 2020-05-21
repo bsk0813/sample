@@ -60,12 +60,16 @@ header{
   transition:all 0.5s;
   opacity:1;
 }
-.lesson-wrapper{
-  background-color:#f7f7f7;
+.text{
+  /* background-color:#f7f7f7; */
   text-align:center;
-}
-.lesson-wrapper h2{
-  padding-top:80px;
-  padding-bottom:50px;
   color:#5f5d60;
+}
+.text h2{
+  padding-top:80px;
+  padding-bottom:80px;
+}
+.text img{
+  width:500px;
+  margin-bottom:150px;
 }
