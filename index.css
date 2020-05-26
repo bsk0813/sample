@@ -73,3 +73,16 @@ header{
   width:500px;
   margin-bottom:150px;
 }
+.text h2{
+  text-align:left;
+  line-height:50px;
+  color:#eb9d38;
+}
+footer{
+  padding-top:30px;
+  padding-bottom:30px;
+  color:white;
+  background-color:#4f515c;
+  text-align:right;
+  height:80px;
+}
